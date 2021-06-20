@@ -1,16 +1,21 @@
 # kickstarter-analysis
 An Analysis of Kickstarter Campaigns
 
+Below is a chart showing the month a campaign was started and if it was successful.
+![OutcomesPerLaunchDate.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/OutcomesPerLaunchDate.png)
 
-![OutcomesPerLaunchDate.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/)
+1. The month that launched the most successful Kickstarter campaigns was May. The 3 worst months to start a campaign were August, September, and December.
+2. January, August, September, October, and December all had roughly the same number of failed campaigns launched as successful.
 
-![ParentCategoryOutcomes.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/)
+![ParentCategoryOutcomes.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
 
-The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
+1. Theater is the most popular type of campaign, followed closely by Music.
+2. Music campaigns had the highest percent of success (77%) and lowest percent of failures (17%) with a grand total of 636 campaigns.
+3. Film & Video came in second at 62% successful and 31% failed with a grand total of 422 campaigns.
+4. Interestingly enough, Theater came in 3rd with 58% successful and 38% failed with a grand total of 912.
+5. Journalism is a category to avoid, along with publishing, games, food, and photography.
 
-theater is a popular and successful type of campaign overall
 
-there is a spike of successful campaigns that began in June, but that tapers off by the end of the year.
 
 Foresight campaign was successful. It reached 100% of its goal.  The average donation is surprisingly high, considering there are only 17 backers. Scrolling further, we can also see that the campaign wasn't active for very long---just under a month.
 

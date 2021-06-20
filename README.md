@@ -8,6 +8,7 @@ Below is a chart showing the month a campaign was started and if it was successf
 2. January, August, September, October, and December all had roughly the same number of failed campaigns launched as successful.
 
 
+Below is chart comparing the type of campaign and its number of successes and failures.
 ![ParentCategoryOutcomes.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
 
 1. Theater is the most popular type of campaign, followed closely by Music.

@@ -18,6 +18,7 @@ Below is chart comparing the type of campaign and its number of successes and fa
 
 
 ****************** Complete this section ...
+In addition to your findings, you should also include charts and graphs (visualizations) in your report. Visualizations help communicate the story the data is telling by making it more understandable and coherent. At the end of the report, add any recommendations you have for Louise based on your findings.
 
 For one, failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. Louise is asking for more than twice the average successful Kickstarter goal, so this isn't great news for her campaign. In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. In other words, if the failed projects were also getting a median pledge amount of around $3,000, it's possible that those that failed just asked for too high of a price. Since the median is much lower, there must be another factor keeping people from pledging to those unsuccessful projects. 
 

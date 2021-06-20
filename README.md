@@ -1,6 +1,10 @@
 # kickstarter-analysis
 An Analysis of Kickstarter Campaigns
 
+
+![Outcomes%20per%20Launch%20Date.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/)
+
+
 The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
 
 theater is a popular and successful type of campaign overall

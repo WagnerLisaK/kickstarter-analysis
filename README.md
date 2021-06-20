@@ -1,5 +1,4 @@
-# kickstarter-analysis
-An Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns
 
 Below is a chart showing the month a campaign was started and if it was successful.
 ![OutcomesPerLaunchDate.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/OutcomesPerLaunchDate.png)

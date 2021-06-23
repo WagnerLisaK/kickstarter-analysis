@@ -7,6 +7,7 @@ Below is a chart showing the month a campaign was started and if it was successf
 2. January, August, September, October, and December all had roughly the same number of failed campaigns launched as successful.
 
 
+
 Below is chart comparing the type of campaign and its number of successes and failures.
 ![ParentCategoryOutcomes.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
 
@@ -17,21 +18,15 @@ Below is chart comparing the type of campaign and its number of successes and fa
 5. Journalism is a category to avoid, along with publishing, games, food, and photography.
 
 
-****************** Complete this section ...
-In addition to your findings, you should also include charts and graphs (visualizations) in your report. Visualizations help communicate the story the data is telling by making it more understandable and coherent. At the end of the report, add any recommendations you have for Louise based on your findings.
 
-For one, failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. Louise is asking for more than twice the average successful Kickstarter goal, so this isn't great news for her campaign. In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. In other words, if the failed projects were also getting a median pledge amount of around $3,000, it's possible that those that failed just asked for too high of a price. Since the median is much lower, there must be another factor keeping people from pledging to those unsuccessful projects. 
+From a statistical perspective,
+1. Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns.  You are asking for more than twice the average successful Kickstarter goal.
+2. The mean campaign goal is around £4,000. Half of the campaign goals are less than £2,000. You should set a goal of less then £4,000.
 
-The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
 
-The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center.
-
-Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals!
-
-From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
-
-*******************************
 
 Foresight Campaign
 
 The Foresight campaign was successful. It reached 100% of its goal. The average donation was $117.88, with only 17 backers. The campaign wasn't active for very long, just over 3 weeks.
+
+Report by Lisa K Wagner - 06/23/2021

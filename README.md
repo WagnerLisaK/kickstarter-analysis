@@ -1,5 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
+This project looked at fund-raising goals and donations of many types of entertainment around the world, comparing which campaigns were successful and which were not.
+
 Below is a chart showing the month a campaign was started and if it was successful.
 ![OutcomesPerLaunchDate.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/OutcomesPerLaunchDate.png)
 

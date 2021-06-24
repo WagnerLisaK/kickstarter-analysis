@@ -1,9 +1,14 @@
 # Kickstarting with Excel
 
 ## Overview of Project and Purpose
-Louise wants to produce a play.  She has lots of historical data she wants analyzed in order for her to make an educated dicision on what she should do about fundraising for her play and determine a reasonable budget.
+This project revolves around different types of productions and the related fundraising efforts.
+
+Louise wants to produce a play.  She has historical data she needs analyzed.  The data includes productions of different types, from around the world, and spread over a period of years, 2009 - 2017.  The data includes, but is not limited to: Name of Production, Type of Production, Fundraising Goal, Total Donations, Total Number of Backers, and the time frame for which the fundraising occurred.
+
+Louise want to know the outcomes of the fundraising campaigns based on the campaign launch date and also on fundraising goals.  This information will help her make an educated decision on how to manage her fundraising and if her budget is reasonable.
 
 ## Analysis and Challenges
+
 
 ### Analysis of Outcomes Based on Launch Date
 

@@ -28,7 +28,10 @@ See below for chart-specific analyses.
 ![Theater_Outcomes_vs_Launch.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 1. The month that launched the most successful Kickstarter campaigns was May. The 3 worst months to start a campaign were August, September, and December.
+
 2. January, August, September, October, and December all had roughly the same number of failed campaigns launched as successful.
+
+3. I would recommend that Louise does her fundraising in June/July/August.
 
 
 ### Analysis of Outcomes Based on Goals
@@ -44,6 +47,8 @@ See below for chart-specific analyses.
       c. $40,000 - $44,999
 
 4. Generally speaking, the failed campaigns have a higher fundraising goal than the successful campaigns.
+
+5. I would recommend that Louise's budget is no more than $10,000 and closer to $5000.
 
                                                                                       
 ### Challenges and Difficulties Encountered
@@ -69,7 +74,7 @@ Also, after I created the base formula for the =COUNTIFS(), I double-checked my 
 - What are some limitations of this dataset?
      1. Only the parent category = "Theater" data was used for the "Launch Date" analysis.
      2. Only the parent category = "Theater" and sub-category = "Plays" data was used for the "Fundraising Goal" analysis. 
-     3. The latest data is 3-4 years old.
+     3. The most recent data is 3-4 years old.
 
 - What are some other possible tables and/or graphs that we could create?
      1. I was wondering how much "Theater" data was being excluded by filtering on the sub-category "Plays".  The chart below illustrates this and it is obvious that most of the data in the "Theater" data set is "Plays", which means the chart by fundraising goal is reliable.

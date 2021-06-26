@@ -35,7 +35,7 @@ See below for chart-specific analyses.
 
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals1.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals1.png)
+![Outcomes_vs_Goals.png](https://github.com/WagnerLisaK/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 1. The most successful campaigns had a fundraising goal of less than $5,000.
 
